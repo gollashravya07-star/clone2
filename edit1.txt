@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 edit1
 edit3
+=======
+edit1edit2
+>>>>>>> f7d8a92 (save local changes to edit1.txt)
